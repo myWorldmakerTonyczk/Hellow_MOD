@@ -33,7 +33,7 @@ public class Main {
     @SubscribeEvent
     public static void rightClickBlock(PlayerInteractEvent.RightClickBlock event){
         Player player = event.getPlayer();
-        player.sendMessage(new TextComponent("RightClickBlock is fire"),Util.NIL_UUID);
+        player.sendMessage(new TextComponent("RightClickBlock is firenn"),Util.NIL_UUID);
     }
     @SubscribeEvent
     public static void rightClickItem(PlayerInteractEvent.RightClickItem event){
