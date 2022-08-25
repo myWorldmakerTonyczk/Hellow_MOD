@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "hello_mod:example_block" //这里面的方块都是可以被挖掘的
+
+  ]
+}
